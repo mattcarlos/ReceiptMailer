@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/hibyprime/sync/workspace/Dev/Android/ReceiptMailer/app/src/main/assets" >
+            <file
+                name="tessdata/ocrtest.jpg"
+                path="/home/hibyprime/sync/workspace/Dev/Android/ReceiptMailer/app/src/main/assets/tessdata/ocrtest.jpg" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/hibyprime/sync/workspace/Dev/Android/ReceiptMailer/app/src/debug/assets" />
+    </dataSet>
+
+</merger>
