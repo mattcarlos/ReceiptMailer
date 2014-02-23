@@ -5,3 +5,7 @@ you may have and OCR them into actual data.
 
 Long term goals involve no paper receipts at all, description will arrive
 when the code does.
+
+Uses code from:
+https://github.com/rmtheis/tess-two
+https://github.com/zxing/zxing
